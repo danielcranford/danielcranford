@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **danielcranford/danielcranford** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+= Open source contributions =
+- https://bugs.openjdk.org/browse/JDK-8193682
+- https://bugs.eclipse.org/bugs/show_bug.cgi?id=545076
+- https://issues.apache.org/jira/projects/CASSANDRA/issues/CASSANDRA-13871
+- https://issues.apache.org/jira/projects/CASSANDRA/issues/CASSANDRA-13879
+- https://issues.apache.org/jira/projects/CASSANDRA/issues/CASSANDRA-13932
+- https://issues.apache.org/jira/projects/CASSANDRA/issues/CASSANDRA-13940
+- https://issues.apache.org/jira/projects/CASSANDRA/issues/CASSANDRA-17237
+- https://issues.apache.org/jira/projects/CASSANDRA/issues/CASSANDRA-17786
