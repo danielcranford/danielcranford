@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 # Open source contributions
-- https://bugs.openjdk.org/browse/JDK-8193682
+- https://bugs.java.com/bugdatabase/view_bug?bug_id=8193682 https://bugs.openjdk.org/browse/JDK-8193682
 - https://bugs.eclipse.org/bugs/show_bug.cgi?id=545076
 - https://issues.apache.org/jira/projects/CASSANDRA/issues/CASSANDRA-13871
 - https://issues.apache.org/jira/projects/CASSANDRA/issues/CASSANDRA-13879
