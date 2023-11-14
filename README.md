@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-= Open source contributions =
+# Open source contributions
 - https://bugs.openjdk.org/browse/JDK-8193682
 - https://bugs.eclipse.org/bugs/show_bug.cgi?id=545076
 - https://issues.apache.org/jira/projects/CASSANDRA/issues/CASSANDRA-13871
